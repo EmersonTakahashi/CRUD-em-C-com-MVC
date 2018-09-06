@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2015\Projects\CRUDSIMPLES\CRUDSIMPLES\bin\Debug\CRUDSIMPLES.exe.config
+c:\users\user\documents\visual studio 2015\Projects\CRUDSIMPLES\CRUDSIMPLES\bin\Debug\CRUDSIMPLES.exe
+c:\users\user\documents\visual studio 2015\Projects\CRUDSIMPLES\CRUDSIMPLES\bin\Debug\CRUDSIMPLES.pdb
+c:\users\user\documents\visual studio 2015\Projects\CRUDSIMPLES\CRUDSIMPLES\bin\Debug\MySql.Data.dll
+c:\users\user\documents\visual studio 2015\Projects\CRUDSIMPLES\CRUDSIMPLES\obj\Debug\CRUDSIMPLES.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\CRUDSIMPLES\CRUDSIMPLES\obj\Debug\CRUDSIMPLES.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\CRUDSIMPLES\CRUDSIMPLES\obj\Debug\CRUDSIMPLES.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\CRUDSIMPLES\CRUDSIMPLES\obj\Debug\CRUDSIMPLES.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\CRUDSIMPLES\CRUDSIMPLES\obj\Debug\CRUDSIMPLES.exe
+c:\users\user\documents\visual studio 2015\Projects\CRUDSIMPLES\CRUDSIMPLES\obj\Debug\CRUDSIMPLES.pdb
