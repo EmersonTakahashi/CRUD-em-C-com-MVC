@@ -17,7 +17,7 @@ namespace CRUDSIMPLES.Utilitarios
 
             try
             {
-                con = new MySqlConnection("server=localhost; port=3306; userID=root; database=bd_crud; password=794886588");
+                con = new MySqlConnection("server=localhost; port=3306; userID=root; database=bd_crud; password=");
                 con.Open();
             }
             catch(MySqlException e)
